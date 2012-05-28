@@ -1,5 +1,7 @@
 PODS:
   - JSONKit (1.5pre)
+  - SBJson (3.1)
 
 DEPENDENCIES:
   - JSONKit
+  - SBJson
