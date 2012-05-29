@@ -2,3 +2,4 @@
 
 	dependency 'JSONKit'
 	dependency 'SBJson'
+	dependency 'AFNetworking'

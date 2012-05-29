@@ -1,7 +1,9 @@
 PODS:
+  - AFNetworking (1.0RC1)
   - JSONKit (1.5pre)
   - SBJson (3.1)
 
 DEPENDENCIES:
+  - AFNetworking
   - JSONKit
   - SBJson

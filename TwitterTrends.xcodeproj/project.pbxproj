@@ -1,674 +1,330 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0A19D55CB3F644E98CA57489</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods.a</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>2CF0FD78157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD8D157311210017E5F5</string>
-				<string>2CF0FD86157311210017E5F5</string>
-				<string>2CF0FD84157311210017E5F5</string>
-				<string>378C69952EFA44F29D5CBD26</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD7A157311210017E5F5</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0420</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2CF0FD7D157311210017E5F5</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>2CF0FD78157311210017E5F5</string>
-			<key>productRefGroup</key>
-			<string>2CF0FD84157311210017E5F5</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>2CF0FD82157311210017E5F5</string>
-			</array>
-		</dict>
-		<key>2CF0FD7D157311210017E5F5</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>2CF0FD9F157311210017E5F5</string>
-				<string>2CF0FDA0157311210017E5F5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2CF0FD7F157311210017E5F5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2CF0FD94157311210017E5F5</string>
-				<string>2CF0FD98157311210017E5F5</string>
-				<string>2CF0FD9B157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2CF0FD80157311210017E5F5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2CF0FD88157311210017E5F5</string>
-				<string>2CF0FD8A157311210017E5F5</string>
-				<string>2CF0FD8C157311210017E5F5</string>
-				<string>8194724CC21A4088ADC3C36A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2CF0FD81157311210017E5F5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2CF0FD92157311210017E5F5</string>
-				<string>2CF0FD9E157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2CF0FD82157311210017E5F5</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>2CF0FDA1157311210017E5F5</string>
-			<key>buildPhases</key>
-			<array>
-				<string>2CF0FD7F157311210017E5F5</string>
-				<string>2CF0FD80157311210017E5F5</string>
-				<string>2CF0FD81157311210017E5F5</string>
-				<string>BF07125B919140D6A9749410</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>TwitterTrends</string>
-			<key>productName</key>
-			<string>TwitterTrends</string>
-			<key>productReference</key>
-			<string>2CF0FD83157311210017E5F5</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>2CF0FD83157311210017E5F5</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>TwitterTrends.app</string>
-			<key>path</key>
-			<string>TwitterTrends.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>2CF0FD84157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD83157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD86157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD87157311210017E5F5</string>
-				<string>2CF0FD89157311210017E5F5</string>
-				<string>2CF0FD8B157311210017E5F5</string>
-				<string>0A19D55CB3F644E98CA57489</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD87157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>2CF0FD88157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD87157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD89157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>2CF0FD8A157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD89157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD8B157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreGraphics.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/CoreGraphics.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>2CF0FD8C157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD8B157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD8D157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD96157311210017E5F5</string>
-				<string>2CF0FD97157311210017E5F5</string>
-				<string>2CF0FD99157311210017E5F5</string>
-				<string>2CF0FD9A157311210017E5F5</string>
-				<string>2CF0FD9C157311210017E5F5</string>
-				<string>2CF0FD8E157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>TwitterTrends</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD8E157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD8F157311210017E5F5</string>
-				<string>2CF0FD90157311210017E5F5</string>
-				<string>2CF0FD93157311210017E5F5</string>
-				<string>2CF0FD95157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD8F157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>name</key>
-			<string>TwitterTrends-Info.plist</string>
-			<key>path</key>
-			<string>TwitterTrends-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD90157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD91157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD91157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD92157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD90157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD93157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>main.m</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD94157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD93157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD95157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TwitterTrends-Prefix.pch</string>
-			<key>path</key>
-			<string>TwitterTrends-Prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD96157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MWAppDelegate.h</string>
-			<key>path</key>
-			<string>MWAppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD97157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MWAppDelegate.m</string>
-			<key>path</key>
-			<string>MWAppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD98157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD97157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD99157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MWViewController.h</string>
-			<key>path</key>
-			<string>MWViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD9A157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MWViewController.m</string>
-			<key>path</key>
-			<string>MWViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD9B157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD9A157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD9C157311210017E5F5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2CF0FD9D157311210017E5F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>MWViewController.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD9D157311210017E5F5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/MWViewController.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CF0FD9E157311210017E5F5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CF0FD9C157311210017E5F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CF0FD9F157311210017E5F5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_32_BIT)</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>GCC_WARN_ABOUT_MISSING_PROTOTYPES</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>2CF0FDA0157311210017E5F5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_32_BIT)</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>GCC_WARN_ABOUT_MISSING_PROTOTYPES</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>OTHER_CFLAGS</key>
-				<string>-DNS_BLOCK_ASSERTIONS=1</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>2CF0FDA1157311210017E5F5</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>2CF0FDA2157311210017E5F5</string>
-				<string>2CF0FDA3157311210017E5F5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2CF0FDA2157311210017E5F5</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>378C69952EFA44F29D5CBD26</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>TwitterTrends/TwitterTrends-Prefix.pch</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INFOPLIST_FILE</key>
-				<string>TwitterTrends/TwitterTrends-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>2CF0FDA3157311210017E5F5</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>378C69952EFA44F29D5CBD26</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>TwitterTrends/TwitterTrends-Prefix.pch</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INFOPLIST_FILE</key>
-				<string>TwitterTrends/TwitterTrends-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>378C69952EFA44F29D5CBD26</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Pods.xcconfig</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>8194724CC21A4088ADC3C36A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0A19D55CB3F644E98CA57489</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BF07125B919140D6A9749410</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Pods-resources.sh"
-</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>2CF0FD7A157311210017E5F5</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C8150BF157572E500A70A11 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C8150BD157572E500A70A11 /* WebViewController.m */; };
+		2C8150C0157572E500A70A11 /* WebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C8150BE157572E500A70A11 /* WebViewController.xib */; };
+		2CF0FD88157311210017E5F5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CF0FD87157311210017E5F5 /* UIKit.framework */; };
+		2CF0FD8A157311210017E5F5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CF0FD89157311210017E5F5 /* Foundation.framework */; };
+		2CF0FD8C157311210017E5F5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CF0FD8B157311210017E5F5 /* CoreGraphics.framework */; };
+		2CF0FD92157311210017E5F5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2CF0FD90157311210017E5F5 /* InfoPlist.strings */; };
+		2CF0FD94157311210017E5F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF0FD93157311210017E5F5 /* main.m */; };
+		2CF0FD98157311210017E5F5 /* MWAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF0FD97157311210017E5F5 /* MWAppDelegate.m */; };
+		2CF0FD9B157311210017E5F5 /* MWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF0FD9A157311210017E5F5 /* MWViewController.m */; };
+		2CF0FD9E157311210017E5F5 /* MWViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2CF0FD9C157311210017E5F5 /* MWViewController.xib */; };
+		2CF0FDB8157319B60017E5F5 /* TwitterTrends.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF0FDB7157319B60017E5F5 /* TwitterTrends.m */; };
+		8194724CC21A4088ADC3C36A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A19D55CB3F644E98CA57489 /* libPods.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0A19D55CB3F644E98CA57489 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C8150BC157572E500A70A11 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		2C8150BD157572E500A70A11 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		2C8150BE157572E500A70A11 /* WebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WebViewController.xib; sourceTree = "<group>"; };
+		2CF0FD83157311210017E5F5 /* TwitterTrends.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterTrends.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CF0FD87157311210017E5F5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2CF0FD89157311210017E5F5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2CF0FD8B157311210017E5F5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2CF0FD8F157311210017E5F5 /* TwitterTrends-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TwitterTrends-Info.plist"; sourceTree = "<group>"; };
+		2CF0FD91157311210017E5F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2CF0FD93157311210017E5F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2CF0FD95157311210017E5F5 /* TwitterTrends-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TwitterTrends-Prefix.pch"; sourceTree = "<group>"; };
+		2CF0FD96157311210017E5F5 /* MWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MWAppDelegate.h; sourceTree = "<group>"; };
+		2CF0FD97157311210017E5F5 /* MWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MWAppDelegate.m; sourceTree = "<group>"; };
+		2CF0FD99157311210017E5F5 /* MWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MWViewController.h; sourceTree = "<group>"; };
+		2CF0FD9A157311210017E5F5 /* MWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MWViewController.m; sourceTree = "<group>"; };
+		2CF0FD9D157311210017E5F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MWViewController.xib; sourceTree = "<group>"; };
+		2CF0FDB6157319B60017E5F5 /* TwitterTrends.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwitterTrends.h; sourceTree = "<group>"; };
+		2CF0FDB7157319B60017E5F5 /* TwitterTrends.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwitterTrends.m; sourceTree = "<group>"; };
+		378C69952EFA44F29D5CBD26 /* Pods.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2CF0FD80157311210017E5F5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CF0FD88157311210017E5F5 /* UIKit.framework in Frameworks */,
+				2CF0FD8A157311210017E5F5 /* Foundation.framework in Frameworks */,
+				2CF0FD8C157311210017E5F5 /* CoreGraphics.framework in Frameworks */,
+				8194724CC21A4088ADC3C36A /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2CF0FD78157311210017E5F5 = {
+			isa = PBXGroup;
+			children = (
+				2CF0FD8D157311210017E5F5 /* TwitterTrends */,
+				2CF0FD86157311210017E5F5 /* Frameworks */,
+				2CF0FD84157311210017E5F5 /* Products */,
+				378C69952EFA44F29D5CBD26 /* Pods.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		2CF0FD84157311210017E5F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2CF0FD83157311210017E5F5 /* TwitterTrends.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2CF0FD86157311210017E5F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2CF0FD87157311210017E5F5 /* UIKit.framework */,
+				2CF0FD89157311210017E5F5 /* Foundation.framework */,
+				2CF0FD8B157311210017E5F5 /* CoreGraphics.framework */,
+				0A19D55CB3F644E98CA57489 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2CF0FD8D157311210017E5F5 /* TwitterTrends */ = {
+			isa = PBXGroup;
+			children = (
+				2C8150BC157572E500A70A11 /* WebViewController.h */,
+				2C8150BD157572E500A70A11 /* WebViewController.m */,
+				2C8150BE157572E500A70A11 /* WebViewController.xib */,
+				2CF0FD96157311210017E5F5 /* MWAppDelegate.h */,
+				2CF0FD97157311210017E5F5 /* MWAppDelegate.m */,
+				2CF0FD99157311210017E5F5 /* MWViewController.h */,
+				2CF0FD9A157311210017E5F5 /* MWViewController.m */,
+				2CF0FD9C157311210017E5F5 /* MWViewController.xib */,
+				2CF0FDB6157319B60017E5F5 /* TwitterTrends.h */,
+				2CF0FDB7157319B60017E5F5 /* TwitterTrends.m */,
+				2CF0FD8E157311210017E5F5 /* Supporting Files */,
+			);
+			path = TwitterTrends;
+			sourceTree = "<group>";
+		};
+		2CF0FD8E157311210017E5F5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2CF0FD8F157311210017E5F5 /* TwitterTrends-Info.plist */,
+				2CF0FD90157311210017E5F5 /* InfoPlist.strings */,
+				2CF0FD93157311210017E5F5 /* main.m */,
+				2CF0FD95157311210017E5F5 /* TwitterTrends-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2CF0FD82157311210017E5F5 /* TwitterTrends */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CF0FDA1157311210017E5F5 /* Build configuration list for PBXNativeTarget "TwitterTrends" */;
+			buildPhases = (
+				2CF0FD7F157311210017E5F5 /* Sources */,
+				2CF0FD80157311210017E5F5 /* Frameworks */,
+				2CF0FD81157311210017E5F5 /* Resources */,
+				BF07125B919140D6A9749410 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TwitterTrends;
+			productName = TwitterTrends;
+			productReference = 2CF0FD83157311210017E5F5 /* TwitterTrends.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2CF0FD7A157311210017E5F5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 2CF0FD7D157311210017E5F5 /* Build configuration list for PBXProject "TwitterTrends" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2CF0FD78157311210017E5F5;
+			productRefGroup = 2CF0FD84157311210017E5F5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2CF0FD82157311210017E5F5 /* TwitterTrends */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2CF0FD81157311210017E5F5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CF0FD92157311210017E5F5 /* InfoPlist.strings in Resources */,
+				2CF0FD9E157311210017E5F5 /* MWViewController.xib in Resources */,
+				2C8150C0157572E500A70A11 /* WebViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BF07125B919140D6A9749410 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2CF0FD7F157311210017E5F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CF0FD94157311210017E5F5 /* main.m in Sources */,
+				2CF0FD98157311210017E5F5 /* MWAppDelegate.m in Sources */,
+				2CF0FD9B157311210017E5F5 /* MWViewController.m in Sources */,
+				2CF0FDB8157319B60017E5F5 /* TwitterTrends.m in Sources */,
+				2C8150BF157572E500A70A11 /* WebViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2CF0FD90157311210017E5F5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2CF0FD91157311210017E5F5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2CF0FD9C157311210017E5F5 /* MWViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2CF0FD9D157311210017E5F5 /* en */,
+			);
+			name = MWViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2CF0FD9F157311210017E5F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2CF0FDA0157311210017E5F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2CF0FDA2157311210017E5F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 378C69952EFA44F29D5CBD26 /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TwitterTrends/TwitterTrends-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "TwitterTrends/TwitterTrends-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2CF0FDA3157311210017E5F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 378C69952EFA44F29D5CBD26 /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TwitterTrends/TwitterTrends-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "TwitterTrends/TwitterTrends-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2CF0FD7D157311210017E5F5 /* Build configuration list for PBXProject "TwitterTrends" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CF0FD9F157311210017E5F5 /* Debug */,
+				2CF0FDA0157311210017E5F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CF0FDA1157311210017E5F5 /* Build configuration list for PBXNativeTarget "TwitterTrends" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CF0FDA2157311210017E5F5 /* Debug */,
+				2CF0FDA3157311210017E5F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2CF0FD7A157311210017E5F5 /* Project object */;
+}

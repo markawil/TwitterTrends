@@ -8,6 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MWViewController : UIViewController
+@interface MWViewController : UIViewController <UITableViewDelegate, UITableViewDataSource> {
+    
+}
+
+@property (weak, nonatomic) IBOutlet UITableView *serviceView;
+@property (nonatomic, retain) NSMutableArray *names;
+@property (nonatomic, retain) NSMutableArray *urls;
 
 @end
